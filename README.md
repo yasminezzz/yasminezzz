@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmine!</h1>
-<h3 align="center">A passionate developer from Tunisia.</h3>
+<h3 align="center">I'm a passionate developer from Tunisia.</h3>
 
 - 🌱 I’m currently learning **Flutter**
 - 📫 Reach me via email **yasmine.zerai@esprit.tn**
