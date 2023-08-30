@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate developer from Tunisia.</h3>
 
 - 🌱 I’m currently learning **Flutter**
-- 📫 Reach me via email **yasmine.zerai@esprit.tn**
+- 📫 Reach me via email **ys.zerai@gmail.com**
 - 📄 Know about my experiences [https://bit.ly/3BCIhYU](https://bit.ly/3BCIhYU)
 
 <h3 align="left">Connect with me:</h3>
